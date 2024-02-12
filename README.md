@@ -4,7 +4,7 @@ My name is Joy, I am currently a full time student of computer engineering. I'm 
 ### I’m currently learning:
 - ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
     
-## I'm a fan of:
+### I'm a fan of:
 - ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
 ## Professional Certificates:
