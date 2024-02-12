@@ -4,6 +4,7 @@ My name is Joy, I am currently a full time student of computer engineering. I'm 
 Skills: In progress
 
 - 🌱 I’m currently learning:
-  ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+
+  - ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 
 [![joysg1's GitHub stats](https://github-readme-stats.vercel.app/api?username=joysg1)](https://github.com/joysg1/github-readme-stats)
