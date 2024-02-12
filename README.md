@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Joy 
-My name is Joy, I am currently a full time student of computer engineering. I'm curious in learning more code since I've been working for so long in the tech support sector. 
+My name is Joy, I am currently a full time student of computer engineering. I'm curious in learning more coding since I've been working mainly in the tech support area and in the construction sector. 
 
 Skills: In progress
 
