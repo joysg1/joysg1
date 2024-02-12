@@ -5,7 +5,4 @@ Skills: In progress
 
 - 🌱 I’m currently learning Python 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/joysg1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joy-n-b5a8112ab/)  
-
 [![joysg1's GitHub stats](https://github-readme-stats.vercel.app/api?username=joysg1)](https://github.com/joysg1/github-readme-stats)
