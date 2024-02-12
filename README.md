@@ -7,7 +7,7 @@ My name is Joy, I am currently a full time student of computer engineering. I'm 
 ### I'm a fan of:
 - ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
-## Professional Certificates:
+### Professional Certificates:
 
 - [Dell Technologies Associate - PowerEdge Version 2.0](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EYyazIJCMnhEtuuIyHkszysBDsEKOfsPmpjL6uOmiUQ8oQ?e=p5Mepr)
   
