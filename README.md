@@ -21,5 +21,7 @@ My name is Joy, I am currently a full time student of computer engineering. I'm 
   
 - [Scrum Foundation Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EZXMEidD915CtfArC4dcq4QByzMpAD84RjhqU2H54PriEQ?e=eVih1P)
 
+- [Digital Marketing Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EaYNMGunbQZMiphb9wtgYB0BL0SqkX1nW-LEd2elmH0Edg?e=s8MI5p)
+
 
 [![joysg1's GitHub stats](https://github-readme-stats.vercel.app/api?username=joysg1)](https://github.com/joysg1/github-readme-stats)
