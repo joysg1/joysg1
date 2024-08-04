@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Joy 
-My name is Joy, I am currently a full time student of computer engineering. I'm curious in learning more coding since I've been working mainly in the tech support area and in the construction sector. 
+My name is Joy, I'm currently a full time student of computer engineering. 
 
 ### I’m currently learning:
 - ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
