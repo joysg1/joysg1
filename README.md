@@ -24,8 +24,4 @@ My name is Joy, I'm currently a full time student of computer engineering. My Gi
 - [Digital Marketing Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EaYNMGunbQZMiphb9wtgYB0BL0SqkX1nW-LEd2elmH0Edg?e=s8MI5p)
 
 
-![joysg1's Stats](https://github-readme-stats.vercel.app/api?username=joysg1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![joysg1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joysg1&theme=vue-dark&hide_border=true)
-
 ![joysg1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joysg1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
