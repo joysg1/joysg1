@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Joy 
-My name is Joy, I'm currently a full time student of computer engineering. My Github is a little bit extrange, I use it to take notes most of the time in my native language spanish.  I'm learning :)
+My name is Joy, I'm currently a full time student of computer engineering. My Github is a little bit extrange, I use it to take notes most of the time in my native language spanish.  I need more time to pulish my english. 
 
 ### I’m currently learning:
 - ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
