@@ -8,17 +8,17 @@
 
 ### Professional Certificates:
 
-- [Dell Technologies Associate - PowerEdge Version 2.0](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EYyazIJCMnhEtuuIyHkszysBDsEKOfsPmpjL6uOmiUQ8oQ?e=p5Mepr)
+- [Dell Technologies Associate - PowerEdge Version 2.0](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EXP65sZlLYRDs_JX3XeIo5ABkWzBFEoK9fTGAFbGn14fmQ?e=a9dHYS)
   
-- [Dell Technologies Associate - Information and Storage Management Version 4.0](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/ERI5ZqvVNphOhnTm1cer0OkBRSoQtdxj55WIHCxAQanGaw?e=1eB1fE)
+- [Dell Technologies Associate - Information and Storage Management Version 4.0](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EXt9E2NjK0RPvXnYzBEF1GcB6mmVnJizM2aOLzJXQMNPXw?e=sHhBb9)
   
-- [Micrsoft Azure Fundamentals (AZ-900)](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/ETmjULqld5hJiK55Eu3MtxgBOvTWAUJ078KI7xu8fkDa1g?e=oVBIh1)
+- [Micrsoft Azure Fundamentals (AZ-900)](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/Ec_oJQ9XIQZPlBi-wWxh4H8BO8AZuyJN4m-lgw_gky0PKQ?e=oRQGqY)
   
-- [Cyber Security Foundation Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/ETmDvG0iXgxHijWfdeVyEYYBjunSyTjWP8UlocO-MR0Aaw?e=Dxk2FU)
+- [Cyber Security Foundation Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EUJuiek6QDRKrkd3jxZ3HxQBWpbvgAl4ZjBHP1RLoJJ9Jw?e=ZiL9gf)
   
-- [Remote Work and Virtual Collaboration Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/Ef9t3oKt4IRJuXh_vWwblU0B0OtbNaMnAfTiJooB1wBGsw?e=1zvTyc)
+- [Remote Work and Virtual Collaboration Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EfU_FkYFqz5LqwfYW-uwNDQB9ORDTTC1G7F7-D6moznNpQ?e=wCzXDz)
   
-- [Scrum Foundation Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EZXMEidD915CtfArC4dcq4QByzMpAD84RjhqU2H54PriEQ?e=eVih1P)
+- [Scrum Foundation Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EcwHnGGMnTBHh9_iOiL_hssBfXpXHyUYSq1bgFd6DIuSVQ?e=J61Hj2)
 
 - [Digital Marketing Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EaYNMGunbQZMiphb9wtgYB0BL0SqkX1nW-LEd2elmH0Edg?e=s8MI5p)
 
