@@ -20,7 +20,7 @@
   
 - [Scrum Foundation Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EcwHnGGMnTBHh9_iOiL_hssBfXpXHyUYSq1bgFd6DIuSVQ?e=J61Hj2)
 
-- [Digital Marketing Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EaYNMGunbQZMiphb9wtgYB0BL0SqkX1nW-LEd2elmH0Edg?e=s8MI5p)
+- [Digital Marketing Professional Certificate](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EQsvfS4L66dJlWXHgxOJqOQBxMVIBUJzDmXO9r2K-IPfeA?e=XUzobe)
 
 
 ![joysg1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joysg1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
