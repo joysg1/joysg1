@@ -1,7 +1,4 @@
 ### Hi there 👋, I'm Joy 
-
-### I’m currently learning:
-- ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
     
 ### I'm a fan of:
 - ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
