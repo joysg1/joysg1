@@ -22,11 +22,4 @@
 
 ![joysg1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joysg1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  template: terminal
-  filename: metrics.terminal.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, metadata
 
