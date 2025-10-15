@@ -22,4 +22,5 @@
 
 ![joysg1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joysg1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+https://github-readme-activity-graph.vercel.app/graph?username=joysg1&bgcolor=333&color=44cc44
 
