@@ -29,4 +29,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Meme](<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">)
+(<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">)
