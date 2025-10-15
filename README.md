@@ -3,7 +3,6 @@
 ### I'm a fan of:
 - ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Professional Certificates:
 
@@ -25,3 +24,5 @@
 ![joysg1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joysg1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=joysg1&bg_color=000000&color=00FF00)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
