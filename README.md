@@ -25,7 +25,7 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=joysg1&bg_color=000000&color=00FF00)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
