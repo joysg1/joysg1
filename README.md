@@ -3,6 +3,8 @@
 ### I'm a fan of:
 - ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### Professional Certificates:
 
 - [Dell Technologies Associate - PowerEdge Version 2.0](https://utpac-my.sharepoint.com/:b:/g/personal/joy_nelaton_utp_ac_pa/EXP65sZlLYRDs_JX3XeIo5ABkWzBFEoK9fTGAFbGn14fmQ?e=a9dHYS)
