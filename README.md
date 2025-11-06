@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Joy 
     
 ### I'm a fan of:
-- ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
 
 ### Professional Certificates:
